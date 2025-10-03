@@ -10,4 +10,4 @@ print(mylist[3])
 print(mylist[1:3])
 print(mylist[-3:-1])
 if "ram" in list2:
-    print("Yes,'ram' is in list2")
+    print("Yes,'ram' is in list2.")

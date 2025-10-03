@@ -1,7 +1,7 @@
 #python variable
 #creating variables
-x= 5
-print(x)
+X= 5
+print(X)
 y= "bibek"
 print(y)
 x= "basnet"
@@ -28,7 +28,7 @@ A= "cat"
 print(a)
 print(A)
 
-#variable names
+#legal variable names
 best_footballer= "Ronaldo"
 _best_footballer= "ronaldo"
 Bestfootballplayer = "ronaldo"
