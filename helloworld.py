@@ -1,12 +1,11 @@
 import sys
 
 print(sys.version)#checks the python version
-print("hello it's me Bibek Basnet "* 2)
-print("&" * 5)
+print("hello it's me Bibek Basnet ")
+print("&  " * 5)
 price = 50
 print(price)
 print('hii')
-
 print(2)
 name = input("what is your name ? ")
 colour = input("which colour you like ? ")
