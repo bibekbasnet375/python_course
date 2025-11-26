@@ -1,6 +1,6 @@
 import sys
 
-print(sys.version)#checks the python version
+print(sys.version) #checks the python version
 print("hello it's me Bibek Basnet ")
 print("&  " * 5)
 price = 50
